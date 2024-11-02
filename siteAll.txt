@@ -1,0 +1,81 @@
+注意工人们，请移动到A区。 
+Attention workers, please move to Zone A.
+
+注意工人们，请移动到B区。 
+Attention workers, please move to Zone B.
+
+注意工人们，请移动到C区。 
+Attention workers, please move to Zone C.
+
+注意工人们，请移动到D区。 
+Attention workers, please move to Zone D.
+
+注意工人们，请将小物品从A区移动到B区。 
+Attention workers, please move the small item from Zone A to Zone B.
+
+注意工人们，请将中等物品从A区移动到B区。 
+Attention workers, please move the medium item from Zone A to Zone B.
+
+注意工人们，请将大物品从A区移动到B区。 
+Attention workers, please move the large item from Zone A to Zone B.
+
+注意工人们，请将小物品从A区扔下去。 
+Attention workers, please throw the small item from Zone A.
+
+注意工人们，请将小物品从B区扔下去。 
+Attention workers, please throw the small item from Zone B.
+
+注意工人们，请将中等物品从A区扔下去。 
+Attention workers, please throw the medium item from Zone A.
+
+注意工人们，请将中等物品从B区扔下去。 
+Attention workers, please throw the medium item from Zone B.
+
+注意工人们，请将大物品从A区扔下去。 
+Attention workers, please throw the large item from Zone A.
+
+注意工人们，请将大物品从B区扔下去。 
+Attention workers, please throw the large item from Zone B.
+
+
+注意工人们，请将小物品堆叠在中等物品上。 
+Attention workers, please stack the small item on top of the medium item.
+
+注意工人们，请将小物品堆叠在大物品上。 
+Attention workers, please stack the small item on top of the large item.
+
+注意工人们，请将中等物品堆叠在小物品上。 
+Attention workers, please stack the medium item on top of the small item.
+
+注意工人们，请将中等物品堆叠在大物品上。 
+Attention workers, please stack the medium item on top of the large item.
+
+注意工人们，请将大物品堆叠在小物品上。 
+Attention workers, please stack the large item on top of the small item.
+
+注意工人们，请将大物品堆叠在中等物品上。 
+Attention workers, please stack the large item on top of the medium item.
+
+注意工人们，请用担架将中等物品从C区运送到A区。 
+Attention workers, please carry the medium item on a stretcher from Zone C to Zone A.
+
+注意工人们，请用担架将中等物品从C区运送到B区。 
+Attention workers, please carry the medium item on a stretcher from Zone C to Zone B.
+
+注意工人们，请用担架将中等物品从D区运送到A区。 
+Attention workers, please carry the medium item on a stretcher from Zone D to Zone A.
+
+注意工人们，请用担架将中等物品从D区运送到B区。 
+Attention workers, please carry the medium item on a stretcher from Zone D to Zone B.
+
+注意工人们，请用担架将大物品从C区运送到A区。 
+Attention workers, please carry the large item on a stretcher from Zone C to Zone A.
+
+注意工人们，请用担架将大物品从C区运送到B区。 
+Attention workers, please carry the large item on a stretcher from Zone C to Zone B.
+
+注意工人们，请用担架将大物品从D区运送到A区。 
+Attention workers, please carry the large item on a stretcher from Zone D to Zone A.
+
+注意工人们，请用担架将大物品从D区运送到B区。 
+Attention workers, please carry the large item on a stretcher from Zone D to Zone B.

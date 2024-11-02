@@ -1,0 +1,124 @@
+注意工人们，请进入工地并依照所有操作指令工作。 
+Attention workers, please enter the work site and work according to all operational instructions.
+注意工人们，请移动到C区。 
+Attention workers, please move to Zone C.
+注意工人们，请在C区将几个小物品、中等物品和大物品组装成一个作品。 
+Attention workers, please assemble a work in Zone C by combining a few small, medium, and large items.
+安全源于遵守指示
+Safety comes from following instructions.
+创造力在于执行每一步的指示
+Creation is about following each step of the instructions.
+小物品应牢固地连接到中等和大物品上
+Small items should be securely attached to medium and large items.
+在操作过程中保持专注，始终遵循步骤
+Stay focused during operations and always follow the steps.
+高效工作从准确执行指令开始
+Efficient work begins with accurately following instructions.
+注意工人们，请移动到D区。 
+Attention workers, please move to Zone D.
+注意工人们，请在D区将几个小物品、中等物品和大物品组装成一个作品。 
+Attention workers, please assemble a work in Zone D by combining a few small, medium, and large items.
+安全源于遵守指示
+Safety comes from following instructions.
+创造力在于执行每一步的指示
+Creation is about following each step of the instructions.
+小物品应牢固地连接到中等和大物品上
+Small items should be securely attached to medium and large items.
+在操作过程中保持专注，始终遵循步骤
+Stay focused during operations and always follow the steps.
+高效工作从准确执行指令开始
+Efficient work begins with accurately following instructions.
+注意工人们，请用担架将作品从D区运送到B区。 
+Attention workers, please carry the work from Zone D to Zone B on a stretcher.
+意义在于位置
+Meaning is in the location
+位置蕴含潜力
+location holds potential
+运输需谨慎
+transport with care
+注意工人们，请将担架上的作品安装在B区。 
+Attention workers, please install the work from the stretcher in Zone B.
+安全源于遵守指示
+Safety comes from following instructions.
+创造力在于执行每一步的指示
+Creation is about following each step of the instructions.
+小物品应牢固地连接到中等和大物品上
+Small items should be securely attached to medium and large items.
+在操作过程中保持专注，始终遵循步骤
+Stay focused during operations and always follow the steps.
+高效工作从准确执行指令开始
+Efficient work begins with accurately following instructions.
+注意工人们，请将一些未使用的物品从B区扔到地面上。 
+Attention workers, please throw some unused items to the ground from Zone B.
+创造即是破坏
+Creation is destruction.
+拆解是重组的第一步
+Disassembly is the first step to reassembly.
+秩序源于混乱
+Order arises from chaos.
+坚固的基础来自于彻底的清理
+A solid foundation comes from thorough clearing.
+注意工人们，请用担架将作品从C区运送到C区。 
+Attention workers, please carry the work from Zone C to Zone A on a stretcher.
+意义在于位置
+Meaning is in the location
+位置蕴含潜力
+location holds potential
+运输需谨慎
+transport with care
+注意工人们，请将担架上的作品安装在B区。 
+Attention workers, please install the work from the stretcher in Zone A.
+安全源于遵守指示
+Safety comes from following instructions.
+创造力在于执行每一步的指示
+Creation is about following each step of the instructions.
+小物品应牢固地连接到中等和大物品上
+Small items should be securely attached to medium and large items.
+在操作过程中保持专注，始终遵循步骤
+Stay focused during operations and always follow the steps.
+高效工作从准确执行指令开始
+Efficient work begins with accurately following instructions.
+注意工人们，请将一些未使用的物品从B区扔到地面上。 
+Attention workers, please throw some unused items to the ground from Zone A.
+创造即是破坏
+Creation is destruction.
+拆解是重组的第一步
+Disassembly is the first step to reassembly.
+秩序源于混乱
+Order arises from chaos.
+坚固的基础来自于彻底的清理
+A solid foundation comes from thorough clearing.
+注意工人们，请一边鼓掌一边互相拍背，仔细检查并欣赏这些作品。 
+Attention workers, please examine and appreciate the works while clapping your hands and patting each other on the back.
+注意工人们，请前往A区并将作品扔到地面上。 
+Attention workers, please move to Zone A and throw the work to the ground.
+创造即是破坏
+Creation is destruction.
+拆解是重组的第一步
+Disassembly is the first step to reassembly.
+秩序源于混乱
+Order arises from chaos.
+坚固的基础来自于彻底的清理
+A solid foundation comes from thorough clearing.
+注意工人们，请前往A区并将作品扔到地面上。 
+Attention workers, please move to Zone B and throw the work to the ground.
+创造即是破坏
+Creation is destruction.
+拆解是重组的第一步
+Disassembly is the first step to reassembly.
+秩序源于混乱
+Order arises from chaos.
+坚固的基础来自于彻底的清理
+A solid foundation comes from thorough clearing.
+注意工人们，请离开工地。 
+Attention workers, please leave the work site.
+
+
+
+
+
+
+
+
+
+
