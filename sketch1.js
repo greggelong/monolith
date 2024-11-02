@@ -13,13 +13,15 @@ let fwd;
 let bkw;
 let talking = false;
 let cbard;
+let cnv;
 function preload() {
   story = loadStrings("ape.txt");
   //story = loadStrings("site.txt");
 }
 
 function setup() {
-  createCanvas(windowWidth, 800);
+  cnv = createCanvas(windowWidth, 800);
+  cnv.parent("canvas-container");
   //colorMode(HSB, story.length, 100, 100);
   //textFont("Courier New", 10);
   bard = new p5.Speech(); // speech synthesis object
