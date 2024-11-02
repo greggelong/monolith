@@ -20,7 +20,7 @@ function preload() {
 }
 
 function setup() {
-  cnv = createCanvas(windowWidth, 800);
+  cnv = createCanvas(windowWidth, 500);
   cnv.parent("canvas-container");
   //colorMode(HSB, story.length, 100, 100);
   //textFont("Courier New", 10);
