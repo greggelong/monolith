@@ -1,6 +1,6 @@
-# raven2
+#The AI boss instructions for APE perfomance
 
-a model app for memorizing texts in in English and Chinese
+
 
 I am using P5js and p5 speech
 
